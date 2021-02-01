@@ -1,0 +1,2 @@
+# fister.club
+Redirect
